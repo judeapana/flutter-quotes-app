@@ -1,16 +1,5 @@
 # quote_app
 
-A new Flutter project.
+A simple Quotes app that enforces my learning experience in Flutter App Development 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20231212-081759](https://github.com/judeapana/flutter-quotes-app/assets/56265643/f2922c95-32f1-456c-9420-a69a79250e30)
